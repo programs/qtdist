@@ -1,0 +1,1 @@
+qt5.9.6_macOS64-dbg.tar.gz filter=lfs diff=lfs merge=lfs -text
