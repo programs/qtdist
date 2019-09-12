@@ -1,8 +1,8 @@
 # qtdist
 Qt5 distribution
 
-压缩: tar zcvf qt5.9.8_xx.tar.gz ./qt5.9.8_xx/
-解压: tar -C ./qt5 -zxvf ./qt5.9.8_xx.tar.gz
+压缩: ```cd ./qt5.9.8_xx/ && tar zcvf qt5.9.8_xx.tar.gz .```
+解压: ```tar -C ./qt5 -zxvf ./qt5.9.8_xx.tar.gz```
 
 ```
 Q1: git push 出现如下错误
